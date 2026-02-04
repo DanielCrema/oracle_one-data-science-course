@@ -1,9 +1,10 @@
 # One - Oracle Next Education 1️⃣
 This repository contains my whole pathway through the **Oracle Next Education** specialization in *data science*.  
 
-It is meant to be a register of all my projects and exercises, as well as a showcase of my skills and progress. The projects are organized in the same structure as the course setup and the commit history reflects the progression of my learning journey.  
+It is meant to be a register of all my projects and exercises, as well as a showcase of my skills and progress. The projects are organized in the same structure as the course setup and the commit history reflects the progression of my learning journey.   
 
-The [**certificates**](./certificates/) folder contains all the certificates I have earned through this specialization program.
+By the end of this specialization [Oracle](https://www.oracle.com/) and [Alura](https://www.alura.com.br/) have organized a hackathon to put knowledge to test in real-world scenary fulfilling needs from companies alongside LATAM. I and my team managed to get the **3rd place** in the ranking. Comprobatory certificate can be found at the [**certificates**](./certificates/) folder.
+- The [**certificates**](./certificates/) folder contains all the certificates I have earned through this specialization program. 
 
 ## 🛠️ Stack
 [Python 3](https://www.python.org)
