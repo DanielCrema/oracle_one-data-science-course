@@ -13,7 +13,11 @@ Para acessar os `códigos` desenvolvidos ao longo do curso, visite a [**📂 pas
 
 O `certificado ONE` completo se encontra em:  
 
-#### 🔗 [**Certificado: ONE - Oracle Next Education**](./Daniel%20Borges%20Crema%20-%20Programa%20ONE%20Certificado.pdf)
+🔗 [**Certificado: ONE - Oracle Next Education**](./Daniel%20Borges%20Crema%20-%20Programa%20ONE%20Certificado.pdf)  
+
+### Hackathon ONE – 3o Lugar
+
+🔗 [**Certificado: Hackathon ONE - 3o Lugar**](./Hackathon%20ONE%203rd%20Place%20-%20Daniel%20Borges%20Crema.pdf)
 <br/>
 
 ---
@@ -28,7 +32,11 @@ To access the code developed throughout the course, visit the [📂 **main folde
 
 The full `ONE certificate` can be found at:  
 
-#### 🔗 [**Certificate: ONE - Oracle Next Education**](./Daniel%20Borges%20Crema%20-%20Program%20ONE%20Certificate.pdf)
+🔗 [**Certificate: ONE - Oracle Next Education**](./Daniel%20Borges%20Crema%20-%20Program%20ONE%20Certificate.pdf)
+
+### Hackathon ONE – 3rd Place
+
+🔗 [**Certificate: Hackathon ONE – 3rd Place**](./Hackathon%20ONE%203rd%20Place%20-%20Daniel%20Borges%20Crema.pdf)
 <br/>
 
 ---
@@ -43,7 +51,11 @@ Para acceder al código desarrollado durante el curso, visita la [📂 **carpeta
 
 El `certificado ONE` completo se encuentra en:  
 
-#### 🔗 [**Certificate: ONE - Oracle Next Education**](./Daniel%20Borges%20Crema%20-%20Programa%20ONE%20Certificado%20-%20Es.pdf)
+🔗 [**Certificate: ONE - Oracle Next Education**](./Daniel%20Borges%20Crema%20-%20Programa%20ONE%20Certificado%20-%20Es.pdf)
+
+### Hackathon ONE – 3er Lugar
+
+🔗 [**Certificado: Hackathon ONE – 3er Lugar**](./Hackathon%20ONE%203rd%20Place%20-%20Daniel%20Borges%20Crema.pdf)
 <br/>
 
 ## *Special thanks* to:  
